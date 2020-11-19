@@ -294,20 +294,20 @@
    "Mano County Rescue Squad":{
       "GroupID":3383859,
       "ClassA":{
-         "Academy Student":3416448656,
+         "Academy Student":3246595800,
          "Emergency Medical Technician":3416448656,
          "Paramedic":3416448656,
          "Advanced Paramedic":3416448656,
          "Lieutenant":3416439469,
          "Captain":3416433010,
-	 "Deputy Chief Paramedic":3416361048,
-         "Chief Paramedic":3416361048,
-         "Assistant Chief":3416342141,
-         "Chief of Medical Operations":3416325917,
-	 "Group Holder":3416325917
+	 "Deputy Chief Paramedic":5696140417,
+         "Chief Paramedic":5696140417,
+         "Assistant Chief":5945108209,
+         "Chief of Medical Operations":5077044526,
+	 "Group Holder":5077044526
       },
       "ClassB":{
-         "Academy Student":4739372125,
+         "Academy Student":3246595800,
          "Emergency Medical Technician":4739372125,
          "Paramedic":4739372125,
          "Advanced Paramedic":4739372125,
@@ -320,7 +320,7 @@
 	 "Group Holder":4739328673
       },
       "ClassC":{
-         "Academy Student":4739374781,
+         "Academy Student":3246595800,
          "Emergency Medical Technician":4739374781,
          "Paramedic":4739374781,
          "Advanced Paramedic":4739374781,
@@ -344,6 +344,19 @@
          "Assistant Chief":3049508944,
          "Chief of Medical Operations":3220132801,
 	 "Group Holder":3220132801
+      },
+	"Jacket":{
+         "Academy Student":5696157232,
+         "Emergency Medical Technician":5696157232,
+         "Paramedic":5696157232,
+         "Advanced Paramedic":5696157232,
+         "Lieutenant":5696166742,
+         "Captain":5696157232,
+	 "Deputy Chief Paramedic":5067234980,
+         "Chief Paramedic":5067234980,
+         "Assistant Chief":5956086971,
+         "Chief of Medical Operations":5076111777,
+	 "Group Holder":5076111777
       },
       "RegularBottom":{
          "Academy Student":3230534851,
