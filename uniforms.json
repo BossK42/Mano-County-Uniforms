@@ -385,9 +385,9 @@
 	 "Group Holder":3049403841
       }
    },
-   "Mano County S.W.A.T.":{
-      "GroupID":3059503,
-      "BDULong":{
+   "Tactical Response":{
+      "GroupID":0,
+      "SWATLong":{
          "Cadet":3173998528,
          "Private":3174010296,
          "Private First Class":3174018262,
@@ -401,7 +401,7 @@
 	 "Undersheriff":3643678056,
 	 "Sheriff":3643678056
       },
-	"BDUShort":{
+	"SWATShort":{
          "Cadet":3180317213,
          "Private":3180312697,
          "Private First Class":3180313213,
@@ -415,7 +415,7 @@
 	 "Undersheriff":3643678609,
 	 "Sheriff":3643678609
       },
-	"Undershirt":{
+	"SWATUndershirt":{
          "Cadet":3180382836,
          "Private":3180382836,
          "Private First Class":3180382836,
@@ -429,7 +429,7 @@
 	 "Undersheriff":3180382836,
 	 "Sheriff":3180382836
       },
-	"UndershirtBottom":{
+	"SWATUndershirtBottom":{
          "Cadet":3180383962,
          "Private":3180383962,
          "Private First Class":3180383962,
@@ -443,7 +443,7 @@
 	 "Undersheriff":1737730832,
 	 "Sheriff":1737730832
       },
-	"BDUBottom":{
+	"SWATBottom":{
          "Cadet":3173990084,
          "Private":3173990084,
          "Private First Class":3173990084,
@@ -456,7 +456,106 @@
          "Commanding Officer":3180371711,
 	 "Undersheriff":3180371711,
 	 "Sheriff":3180371711
-      }
+      },
+	   "SRULong":{
+         "Candidate":5360338833,
+         "Probationary Operative":5360338833,
+         "Operative":5360347021,
+         "Senior Operative":5360359240,
+         "Specialist":5360366297,
+         "Operational Sergeant":5360372754,
+         "Operational Lieutenant":5360383509,
+         "Operational Captain":5360387341,
+         "Operational Major":5360387341,
+         "Executive Officer":5360398142,
+	 "Commanding Officer":5360404488,
+	 "Major":5360404488,
+	"Deputy Chief":5360404488,
+	"Assistant Chief":5360404488,
+	"Chief of Police":5360404488,
+	"Owner":5360404488
+      },
+	   "SRUShort":{
+         "Candidate":5360340915,
+         "Probationary Operative":5360340915,
+         "Operative":5360348515,
+         "Senior Operative":5360360738,
+         "Specialist":5360367792,
+         "Operational Sergeant":5360374313,
+         "Operational Lieutenant":5360385177,
+         "Operational Captain":5360389449,
+         "Operational Major":5360389449,
+         "Executive Officer":5360400472,
+	 "Commanding Officer":5360406152,
+	 "Major":5360406152,
+	"Deputy Chief":5360406152,
+	"Assistant Chief":5360406152,
+	"Chief of Police":5360406152,
+	"Owner":5360406152
+      },
+	   "SRUBottoms":{
+         "Candidate":5360545238,
+         "Probationary Operative":5360545238,
+         "Operative":5360545238,
+         "Senior Operative":5360545238,
+         "Specialist":5360545238,
+         "Operational Sergeant":5360545238,
+         "Operational Lieutenant":5360545238,
+         "Operational Captain":5360545238,
+         "Operational Major":5360545238,
+         "Executive Officer":5360545238,
+	 "Commanding Officer":5360545238,
+	 "Major":5360545238,
+	"Deputy Chief":5360545238,
+	"Assistant Chief":5360545238,
+	"Chief of Police":5360545238,
+	"Owner":5360545238
+      },
+	   "SERTLong":{
+         "Candidate":3649394853,
+         "Operative":3185906468,
+         "Senior Operative":3185904983,
+         "Tactical Sergeant":3185899712,
+         "Tactical Lieutenant":3185897010,
+         "Tactical Captain":3185895182,
+         "Tactical Major":5879664489,
+         "Tactical Commander":5879659573,
+         "Executive Officer":5879672746,
+         "Commanding Officer":5857370430,
+	 "Lieutenant Colonel":5857370430,
+	 "Colonel":5857370430,
+	 "Group Holder":5857370430
+      },
+	   "SERTShort":{
+         "Candidate":3185906922,
+         "Operative":3185905862,
+         "Senior Operative":3185903926,
+         "Tactical Sergeant":3185898022,
+         "Tactical Lieutenant":3185896063,
+         "Tactical Captain":3185894148,
+         "Tactical Major":5879665863,
+         "Tactical Commander":5879661761,
+         "Executive Officer":5879674795,
+         "Commanding Officer":5857345867,
+	 "Lieutenant Colonel":5857345867,
+	 "Colonel":5857345867,
+	 "Group Holder":5857345867
+      },
+	   "SERTBottoms":{
+         "Candidate":3657819744,
+         "Operative":3657819744,
+         "Senior Operative":3657819744,
+         "Tactical Sergeant":3657819744,
+         "Tactical Lieutenant":3657819744,
+         "Tactical Captain":3657819744,
+         "Tactical Major":3657819744,
+         "Tactical Commander":3657819744,
+         "Executive Officer":3657819744,
+         "Commanding Officer":3657819744,
+	 "Lieutenant Colonel":3657819744,
+	 "Colonel":3657819744,
+	 "Group Holder":3657819744
+      }	   
    },
    "Pennsylvania State PoIice":{
       "GroupID":3633308,
